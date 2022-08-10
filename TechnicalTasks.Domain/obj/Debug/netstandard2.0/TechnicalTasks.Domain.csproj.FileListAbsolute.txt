@@ -1,0 +1,9 @@
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\bin\Debug\netstandard2.0\TechnicalTasks.Domain.deps.json
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\bin\Debug\netstandard2.0\TechnicalTasks.Domain.dll
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\bin\Debug\netstandard2.0\TechnicalTasks.Domain.pdb
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\obj\Debug\netstandard2.0\TechnicalTasks.Domain.csprojAssemblyReference.cache
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\obj\Debug\netstandard2.0\TechnicalTasks.Domain.AssemblyInfoInputs.cache
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\obj\Debug\netstandard2.0\TechnicalTasks.Domain.AssemblyInfo.cs
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\obj\Debug\netstandard2.0\TechnicalTasks.Domain.csproj.CoreCompileInputs.cache
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\obj\Debug\netstandard2.0\TechnicalTasks.Domain.dll
+C:\Dev\TechnicalTasks\TechnicalTasks.Domain\obj\Debug\netstandard2.0\TechnicalTasks.Domain.pdb
